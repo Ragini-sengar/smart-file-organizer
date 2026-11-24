@@ -1,0 +1,19 @@
+{
+    "minimum_size_kb": 10,
+
+    "categories": {
+        ".jpg": "Images",
+        ".jpeg": "Images",
+        ".png": "Images",
+        ".pdf": "Documents",
+        ".txt": "Documents",
+        ".docx": "Documents",
+        ".xlsx": "Documents",
+        ".pptx": "Documents",
+        ".py": "Python",
+        ".mp4": "Videos",
+        ".mkv": "Videos",
+        ".mp3": "Audio",
+        ".csv": "Spreadsheets"
+    }
+}

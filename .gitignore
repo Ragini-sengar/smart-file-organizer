@@ -1,0 +1,28 @@
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Testing
+.pytest_cache/
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Generated output
+organized_files/
+
+# Local sample files
+test_files/*
+!test_files/.gitkeep
